@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Blackout',
+  tagline: '',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,26 +19,16 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'Us',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Gallery',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Parties',
       link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
@@ -85,7 +75,7 @@ export default {
   // Categories
   categories: {
     on: true,
-    perPage: 6,
+    perPage: 3,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
   },
