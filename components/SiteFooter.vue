@@ -1,11 +1,7 @@
 <template>
   <footer class="site-footer">
-    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
-    Rights Reserved
     <br />
-    Madh <span style="color: blue;">&#9829;</span> with Nuxt.js and
-    Netlify
-  </footer>
+    Made with <span style="color: black;">&#9829;</span> 
 </template>
 
 <script>
