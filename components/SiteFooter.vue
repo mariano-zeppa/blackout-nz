@@ -3,7 +3,7 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
-    Made with <span style="color: blue;">&#9829;</span> with Nuxt.js and
+    Madh <span style="color: blue;">&#9829;</span> with Nuxt.js and
     Netlify
   </footer>
 </template>
