@@ -2,61 +2,21 @@
 title: Ragnarok
 featureImage: /uploads/21nov.jpg
 ---
-Disqus brings the power of commenting to the Awake template. It provides features like moderation, reactions, filtering, and social sharing out of the box. Best of all, it's free and super easy to setup!
+# Description
 
-## Step 1
+* Blackout. Presents Ragnarök 😉
+A new party to black out your night that brings the best of progressive house, techno and hardcore techno.
+This special night will let you be free to dance, and express yourself. Flow to the rhythm of the music, and let yourself go!
+# Date
 
-Go to disqus.com and click on "Get Started"
+Saturday, 21 November 2020 at 22:00 UTC+13
+# Lineup
 
-![Screenshot of Disqus homepage](/uploads/disqus-get-started.jpg)
+Cristian Zumaeta - Cristian has been playing at some of the greatest parties, including “Lunar Soul”, which takes place at Waiheke and Papamoa Beach. Bringing his famous energy for more than 14 hours long! You can expect progressive house and melodic techno from his set.
 
-## Step 2
+Judas - From West France he started to feel passionate playing techno two years ago when he played at raves in his country. His goal is to make his audience apart of this universe with his techno beats.
 
-Choose "I want to install Disqus on my site"
+Belu Colombo - She found her real passion in dark, hypnotic and hardcore Techno.
+Her main goal during her performances is to connect with people, creating a unique atmosphere where she can be the nexus between the music she loves and the audience. For her, being a DJ is about sharing, above everything.
 
-![Disqus button "I want to install Disqus on my site"](/uploads/disqus-add-to-website.jpg)
-
-## Step 3
-
-Sign-up or sign in
-
-## Step 4
-
-Enter site name, Disqus URL and select a category. The Disqus URL name is your site’s name in your account where you can access all the required settings.
-
-## Step 5
-
-Select a plan. There are several premium versions available, but don't worry the free one works just great too!
-
-## Step 6
-
-Disqus supports a number of different platforms but also works great in static sites like Awake. Scroll to the very bottom of the list and choose: "I don't see my platform listed, install manually with"
-
-![Disqus button "I don't see my platform listed, install manually with"](/uploads/disqus-platform-button.jpg)
-
-## Step 7
-
-You can ignore everything on this page, as the Awake template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
-
-Take it from here:
-
-![Site Short Name in url](/uploads/disqus-site-short-name.jpg)
-
-and put it here:
-
-```
-// config/_siteConfig.js
-export default {
-...
-// Disqus
-  disqus: {
-    on: false,
-    loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'testing-bjsj2bjl0i'
-  },
-}
-```
-
-## Step 8
-
-That's it! You've got comments up and running on your site. Go checkout a post and see your new fancy comments section.
+Make sure you get in early, it’s going to be a f*cking good night!
